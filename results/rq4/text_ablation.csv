@@ -1,0 +1,8 @@
+ablation,acc,macro_f1,delta_f1_vs_original
+original,0.6145,0.6161,0.0
+strip_markdown,0.5981,0.5957,-0.0204
+flatten_whitespace(no newlines),0.5929,0.5956,-0.0204
+no_structure(markdown+newlines),0.5783,0.5764,-0.0397
+lowercase_no_punct,0.5749,0.5754,-0.0407
+truncate_50_words(length cue),0.5327,0.5312,-0.0849
+drop_first_sentence(openers),0.5878,0.5915,-0.0246

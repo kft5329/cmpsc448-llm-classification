@@ -1,0 +1,12 @@
+setting,acc,macro_f1,delta_f1_vs_all
+all features,0.5465,0.546,0.0
+drop length,0.5224,0.5218,-0.0241
+only length,0.3193,0.3163,-0.2296
+drop lexical,0.5172,0.518,-0.028
+only lexical,0.3046,0.3021,-0.2438
+drop structure,0.4475,0.443,-0.1029
+only structure,0.4234,0.4021,-0.1439
+drop punctuation,0.4974,0.4986,-0.0473
+only punctuation,0.3408,0.3372,-0.2088
+drop phrases,0.5336,0.5327,-0.0132
+only phrases,0.2461,0.1755,-0.3705
